@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15062010-090510";"";
+"REFERENCE";"AW140-EG-G04F";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"Stiftleiste, Raster 2,54mm, gerade, einreihig, 02 - 40 polig";"";
+"TraceParts.InstanceId";"10-15062010-090510CW3WDDXVWNDMYW62SCHY1UQAB";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.170/10-15062010-090510";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"Stiftleiste, Raster 2,54mm, gerade, einreihig, 4 polig, Kontaktoberfläche : Gold Flash, Stiftlänge = 9,2mm ( A=3,66; B=3,00)";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
